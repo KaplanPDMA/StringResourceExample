@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">字符串资源示例</string>
+    <string name="greeting">你好 PTDipWT5!</string>
+</resources>
